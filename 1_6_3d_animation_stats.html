@@ -141,7 +141,14 @@
         .getElementById("WebGL-output")
         .appendChild(renderer.domElement);
 
-      renderer.render(scene, camera); // シーン、カメラを渡してレンダラーを描画する
+      // renderer.render(scene, camera); // シーン、カメラを渡してレンダラーを描画する
+      renderScene();
+
+      function renderScene() {
+        stats.update();
+        requestAnimationFrame(renderScene); // 再帰で繰り返す
+        renderer.render(scene, camera);
+      }
 
     }
     window.onload = init;
