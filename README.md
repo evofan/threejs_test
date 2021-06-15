@@ -9,3 +9,6 @@ reference
 
 **josdirksen / learning-threejs**  
 [https://github.com/josdirksen/learning-threejs](https://github.com/josdirksen/learning-threejs)  
+
+**ThreeJs Snippets - Visual Studio Marketplace**  
+[https://marketplace.visualstudio.com/items?itemName=En10ve.threejs](https://marketplace.visualstudio.com/items?itemName=En10ve.threejs)  
