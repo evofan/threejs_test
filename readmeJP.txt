@@ -58,3 +58,6 @@ Three.Scene.remove() ... オブジェクトをシーンから削除
 Three.Scene.children ... シーン内の全ての子要素を取得
 Three.Scene.getObjectByName ... 名前を指定してシーンから特定のオブジェクトを取得
 
+Three.Scene.traverse(function) ... 全ての子要素に与えらえた関数を実行出来る
+Three.Scene.fog ... シーンにフォグ効果（遠くがぼんやりとする）を設定する
+Three.Scene.overrideMaterial ... シーン内の全てのオブジェクトに同じマテリアル効果を使用出来る
