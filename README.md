@@ -12,3 +12,6 @@ reference
 
 **ThreeJs Snippets - Visual Studio Marketplace**  
 [https://marketplace.visualstudio.com/items?itemName=En10ve.threejs](https://marketplace.visualstudio.com/items?itemName=En10ve.threejs)  
+
+**Three.js – JavaScript 3D Library**  
+[https://threejs.org/](https://threejs.org/)  
