@@ -15,3 +15,8 @@ reference
 
 **Three.js – JavaScript 3D Library**  
 [https://threejs.org/](https://threejs.org/)  
+
+**node.js http-serverコマンドでwebサーバーを起動する**  
+[https://qiita.com/standard-software/items/1afe7b64c4c644fdd9e4](https://qiita.com/standard-software/items/1afe7b64c4c644fdd9e4)  
+> npm install -g http-server  
+> 
